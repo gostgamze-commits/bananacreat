@@ -1,0 +1,13 @@
+
+# Local Gradle downloads and build caches
+/BananaCreat/gradle_download/
+/BananaCreat/gradle_download_84/
+**/.gradle/
+**/build/
+
+/.claude/settings.local.json
+/BananaCreat/local.properties
+/BananaCreat/gradle_download/
+/BananaCreat/gradle_download_84/
+
+/BananaCreat-Complete.tar.gz
